@@ -6,7 +6,8 @@
 	"publisher": "Sajad Ghorbani",
 	"private": true,
 	"license": "MIT",
-	"repository": "https://github.com/microsoft/vscode-extension-samples/KiCode",
+	"icon": "icon.png",
+	"repository": "https://github.com/sajadghorbani/KiCode",
 	"engines": {
 		"vscode": "^1.74.0"
 	},
@@ -42,7 +43,8 @@
 	},
 	"files": [
 		"dist",
-		"media"
+		"media",
+		"icon.png" 
 	],
 	"devDependencies": {
 		"@eslint/js": "^9.13.0",
